@@ -1,0 +1,112 @@
+.body{
+    margin:0;
+    text-align:center;
+    font-family:'Merriweather',serif;
+    color:#40514E;
+}
+p{
+    
+    line-height: 1.6em;
+}
+.top_container{
+    background-color:#EAF6F6;
+    text-align:center;
+    margin-left:0;
+    height:650px;
+}
+#name{
+    font-family: 'New Tegomin', serif;
+    color:#66BFBF;
+    margin-bottom:50px;
+    margin-top:0px;
+    font-size:80px;
+}
+#name_lower{
+    font-family: 'Tajawal', monospace;
+    font-size:30px;
+    color:#66BFBF;
+}
+#dekh_le{
+    text-decoration:underline;
+}
+.first_img{
+    position:relative;
+}
+.second_img{
+    position:absolute; 
+}
+.third_img{
+    margin-bottom:0;
+}
+/* div middle_container */
+.middle_container{
+    text-align:center;
+
+}
+.fourth_img{
+    padding-top:100px;
+    border-radius:220px;
+}
+#name_hai{
+    color:#66BFBF;
+    font-size:50px;
+}
+#para_mid{
+    width: 400px;
+    text-align:center;
+    margin:auto;
+    padding-bottom:20px;
+}
+.mid_container_mid{
+    text-align:center; /* for div of skills */
+
+}
+.mid_mid_container
+{
+    color:#66BFBF;
+    font-size:40px;
+}
+.mid_mid_container h3{
+    font-size:30px;
+}
+.fifth{
+    float:left;
+    width:340px;
+    height:350px;
+    border-radius:50px;
+}
+/* button */
+.BUTTON_BKT {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 40px;
+    background-color: #3D94F6;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_BKT:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
